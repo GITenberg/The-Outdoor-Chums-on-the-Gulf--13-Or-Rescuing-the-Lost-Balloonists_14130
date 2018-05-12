@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '3424'
     url: http://www.gutenberg.org/2009/agents/3424
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14130#The-Outdoor-Chums-on-the-Gulf--13-Or-Rescuing-the-Lost-Balloonists
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2004-11-23'
 gutenberg_type: Text
